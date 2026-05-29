@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+*.db
+
+# Logs & cache
+*.log
+backend/cache/
+intraday_screener/__pycache__/
+
+# Node
+node_modules/
+frontend/dist/
+
+# macOS
+.DS_Store
+
+# Secrets (never commit)
+.env.local
+*.key

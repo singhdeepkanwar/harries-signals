@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+yfinance
+pandas
+pyarrow
+apscheduler
+python-telegram-bot
+httpx
+pydantic
